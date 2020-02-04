@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 var prefix = "#";
 client.on('message', message => {
-    if (message.content == "#سرعه") {
+    if (message.content == "$fast") {
         var x = ["DreamKing",
 "DeathGames",
 "زيرو كنج",
@@ -29,7 +29,7 @@ client.on('message', message => {
 "عمان",
 "مسقط",
 "بغداد عاصمة العراق",
-"Playing Minecraft",
+"Playing Mta Sa",
 "Music",
 "FaceBooK",
 "YouTube",
@@ -210,9 +210,9 @@ client.on('message', fkk => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Cyhper Script By : DREAM`);
+      console.log(`Cyhper Script By : PABLO`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : PABLO ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`Light Games`,"http://twitch.tv/Light")
