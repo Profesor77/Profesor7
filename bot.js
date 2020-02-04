@@ -67,7 +67,7 @@ client.on('message', message => {
         "عمان",
         "مسقط",
         "بغداد عاصمة العراق",
-        "Playing Minecraft",
+        "Playing Mta Sa",
         "Music",
         "FaceBooK",
         "YouTube",
